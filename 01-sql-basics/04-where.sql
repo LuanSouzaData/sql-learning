@@ -39,3 +39,14 @@ WHERE name LIKE 'A%';
 SELECT customer_id, name, email
 FROM customers
 WHERE name LIKE '%li%';
+
+-- Find customers without an email
+SELECT customer_id, name, email
+FROM customers
+WHERE email IS NULL;
+
+
+-- Find customers with an email
+SELECT customer_id, name, email
+FROM customers
+WHERE email IS NOT NULL;
