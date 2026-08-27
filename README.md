@@ -54,3 +54,10 @@ O conteúdo do repositório está organizado progressivamente nos seguintes mód
 - **SGBD**: PostgreSQL
 - **GUI (Opcional)**: DBeaver / pgAdmin / VS Code (PostgreSQL Extension)
 - **Linguagem**: SQL
+---
+## 🚀 Como Utilizar Este Repositório
+
+1. **Clone o repositório:**
+   ``bash
+   git clone [https://github.com/seu-usuario/sql-learning.git](https://github.com/seu-usuario/sql-learning.git)
+   cd sql-learning
