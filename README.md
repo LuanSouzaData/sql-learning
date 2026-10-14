@@ -144,7 +144,6 @@ Planned topics:
 - Data cleaning with SQL
 - Working with external datasets
 
----
 
 ### ⚫ Module 7: Performance and Database Administration
 
