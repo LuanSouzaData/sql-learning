@@ -144,6 +144,7 @@ Planned topics:
 - Data cleaning with SQL
 - Working with external datasets
 
+---
 
 ### ⚫ Module 7: Performance and Database Administration
 
@@ -160,3 +161,24 @@ Planned topics:
 - `ROLLBACK`
 - Isolation levels
 - Basic PostgreSQL administration
+
+---
+
+## 📂 Repository Structure
+
+```text
+sql-learning/
+│
+├── 01-sql-basics/
+│   └── SQL fundamentals and basic queries
+│
+├── 02-data-modeling/
+│   ├── Table creation
+│   ├── Relationships
+│   ├── JOIN operations
+│   ├── Aggregations
+│   ├── Subqueries
+│   ├── Common Table Expressions
+│   └── Window Functions
+│
+└── README.md
